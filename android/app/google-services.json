@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "533860335896",
+    "firebase_url": "https://siofok-kc-prod.firebaseio.com",
+    "project_id": "siofok-kc-prod",
+    "storage_bucket": "siofok-kc-prod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533860335896:android:bf67338658482bab3ade6d",
+        "android_client_info": {
+          "package_name": "com.siofokkc.siofokkcapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533860335896-t1qeqq9670v5cbj4db4lm6fdf4hftcjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4MedhGDzosL_yqdL-e91-QpdUk5NNrII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533860335896-t1qeqq9670v5cbj4db4lm6fdf4hftcjl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "533860335896-c31u2ie9a81dqjcbf54ljl8b1ebcmvfq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.siofokkc.siofokapplication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
